@@ -14,6 +14,9 @@ Here's one of my favourites... a one-liner that recursively deletes all empty fo
 while true; do output=$(sudo find . -type d -empty -exec rmdir {} \; 2>&1); echo "$output"; if [ -z "$output" ]; then echo "Output is empty."; break; fi done
 ```
 
+See [script here](./folders/delete/delete_empty_dirs_one_liner.sh)
+
+
 # Setup
 
 1. Install dependancies
