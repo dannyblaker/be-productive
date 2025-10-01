@@ -1,0 +1,1 @@
+clamscan --recursive --infected --bell .

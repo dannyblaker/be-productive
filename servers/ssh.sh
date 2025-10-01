@@ -1,0 +1,1 @@
+ssh -i /path/to/key.pem ubuntu@123.456.78.90

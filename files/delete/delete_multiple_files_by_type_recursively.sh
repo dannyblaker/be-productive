@@ -1,0 +1,1 @@
+find . \( -iname "*.png" -o -iname "*.pdf" \) -type f -delete

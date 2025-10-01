@@ -1,0 +1,17 @@
+# "/home/user/Desktop/folder/"
+SRC=
+# "/home/user/Desktop/folder2/"
+DEST=
+
+# Server connection details
+
+# "/path/to/key.pem"
+PEM_KEY_PATH=
+# "user"
+REMOTE_USER=
+# "remote_host"
+REMOTE_HOST=
+# "/remote/path/"
+REMOTE_PATH=
+# "/local/path/"
+LOCAL_PATH=

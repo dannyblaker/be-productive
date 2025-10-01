@@ -1,0 +1,5 @@
+# "/home/user/Desktop/tozip"
+SRC=""
+
+# "/home/user/Desktop/tozip.7z"
+DEST=".7z"

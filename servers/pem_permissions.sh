@@ -1,0 +1,1 @@
+sudo chmod 400 /path/to/key.pem
