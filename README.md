@@ -16,6 +16,7 @@ while true; do output=$(sudo find . -type d -empty -exec rmdir {} \; 2>&1); echo
 
 See [script here](./folders/delete/delete_empty_dirs_one_liner.sh)
 
+Note: In some places, I've included comments *below* a command as opposed to *above* in order to make copying and pasting faster.
 
 # Setup
 
