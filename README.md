@@ -68,10 +68,6 @@ The following are additional tools I use to increase productivity:
 
 ## Other
 
-Tool    Website Installation Docs
-n8n https://n8n.io/ https://docs.n8n.io/hosting/installation/npm/
-node-red  https://nodered.org/    https://nodered.org/docs/getting-started/local
-
 | Tool     | Website                  | Installation Docs                                             |
 |----------|--------------------------|---------------------------------------------------------------|
 | VS code | [code.visualstudio.com](https://code.visualstudio.com/) | [Docs](https://code.visualstudio.com/download) |
