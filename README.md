@@ -49,7 +49,7 @@ The following are additional tools I use to increase productivity:
 
 ## Ubuntu App Center
 
-Inkscape
+[Inkscape](https://inkscape.org/)
 
 ## Snap store
 
