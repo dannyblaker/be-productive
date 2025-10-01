@@ -2,6 +2,8 @@
 
 Welcome to "Be Productive", a collection of useful scripts and commands I use on a daily basis as a professional software developer.
 
+**You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
+
 ## Example:
 
 Here's one of my favourites... a one-liner that recursively deletes all empty folders, starting from the current directory:
@@ -9,8 +11,6 @@ Here's one of my favourites... a one-liner that recursively deletes all empty fo
 ```sh
 while true; do output=$(sudo find . -type d -empty -exec rmdir {} \; 2>&1); echo "$output"; if [ -z "$output" ]; then echo "Output is empty."; break; fi done
 ```
-
-**You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
 **System**: Ubuntu 24.04.X LTS
 
