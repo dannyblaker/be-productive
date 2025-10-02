@@ -1,4 +1,4 @@
-# Be Productive
+![be productive logo](be-productive-logo.png)
 
 Welcome to "Be Productive", a collection of useful scripts and commands I use on a daily basis as a professional software developer.
 
