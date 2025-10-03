@@ -1,10 +1,10 @@
-![be productive logo](be-productive-logo.png)
-
 Welcome to "Be Productive", a collection of useful scripts and commands I use on a daily basis as a professional software developer.
 
 **OS**: Ubuntu 24.04.X LTS
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
+
+![be productive logo](be_productive_logo.png)
 
 ## Example:
 
