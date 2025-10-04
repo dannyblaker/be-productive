@@ -1,0 +1,1 @@
+magick -density 300 input.pdf -quality 100 output-%03d.png
