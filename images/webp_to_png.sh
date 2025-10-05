@@ -1,0 +1,1 @@
+convert input.webp output.png
