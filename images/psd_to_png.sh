@@ -1,0 +1,1 @@
+convert input.psd output.png
