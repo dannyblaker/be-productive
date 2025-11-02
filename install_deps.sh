@@ -14,6 +14,7 @@ sudo apt install \
   imagemagick \
   ffmpeg \
   task-spooler \
+  poppler-utils
 
 
 
