@@ -14,7 +14,5 @@ sudo apt install \
   imagemagick \
   ffmpeg \
   task-spooler \
-  poppler-utils
-
-
-
+  poppler-utils \
+  sane-utils
