@@ -2,7 +2,7 @@ Welcome to "Be Productive", a collection of useful scripts and commands I use on
 
 **OS**: Ubuntu 24.04.X LTS
 
-**You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
+[![A Danny Blaker project badge](https://github.com/dannyblaker/dannyblaker.github.io/blob/main/danny_blaker_project_badge.svg)](https://github.com/dannyblaker/)
 
 ![be productive logo](be_productive_logo.png)
 
