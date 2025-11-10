@@ -1,4 +1,4 @@
-NUM_PAGES=2
+NUM_PAGES=14
 DOC_NAME="doc.pdf"
 for i in $(seq 1 $NUM_PAGES); do
     echo "Place page $i on the scanner and press Enter"
