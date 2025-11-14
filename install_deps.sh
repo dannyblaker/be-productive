@@ -16,3 +16,5 @@ sudo apt install \
   task-spooler \
   poppler-utils \
   sane-utils
+
+npm install qrcode

@@ -1,1 +1,1 @@
-scanimage --resolution 300 --format=pdf > page1.pdf
+scanimage --mode Color --resolution 300 --format=pdf > page1.pdf

@@ -1,0 +1,1 @@
+wget --recursive --level=inf --accept=pdf --no-parent https://example.com/

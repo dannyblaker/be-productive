@@ -1,1 +1,1 @@
-find . -name "*.sh" -exec chmod +x {} +   
+find . -name "*.sh" -exec chmod +x {} +

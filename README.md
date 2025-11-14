@@ -20,13 +20,19 @@ Note: In some places I've included comments *below* a command as opposed to *abo
 
 # Setup
 
-1. Install dependancies
+1. Install frameworks
+
+- Docker Desktop
+- VS code
+- NVM (install https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating), then run `nvm install node` 
+
+2. Install dependancies
 
 ```sh
 bash install_deps.sh
 ```
 
-2. Create all `.env` files
+3. Create all `.env` files
 
 ```sh
 bash create_env_files.sh
