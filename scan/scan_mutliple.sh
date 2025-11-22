@@ -46,6 +46,7 @@ trap cleanup EXIT
 # ---- scan loop ----
 for (( i=1; i<=NUM_PAGES; i++ )); do
   printf "Place page %d on the scanner and press Enter..." "$i"
+  espeak "next"
   read -r
   echo "Scanning page $i..."
   OUT_PNG="$TMPDIR/page$(printf "%04d" "$i").png"
