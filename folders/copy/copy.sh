@@ -5,4 +5,4 @@ set -a
 source .env
 set +a
 
-rsync -avh $SRC $DEST
+rsync -avh --progress $SRC $DEST
