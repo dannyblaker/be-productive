@@ -61,6 +61,8 @@ Step 2: navigate to the directory containing the script and run using `bash`
 
 Scripts that have do **not** have `#!/bin/bash...` at the beginning contain commands that can be copied and pasted directly into the terminal. Make any modifications as needed.
 
+**Note:** There may be other script types as necessary, but most follow the patterns above. 
+
 # Tools
 The following are additional tools I use to increase productivity:
 
