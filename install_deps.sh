@@ -3,7 +3,7 @@ sudo add-apt-repository ppa:christian-boxdoerfer/fsearch-daily
 sudo apt update
 sudo apt install \
   diffutils \
-  p7zip-full \
+  7zip \
   fdupes \
   espeak \
   rkhunter \

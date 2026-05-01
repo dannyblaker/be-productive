@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Ridiculously high compression. Warning: may take a long time. 
-# If the files you are compressing are large, you will need a lot of RAM 
-# to compress successfully.
+# you will likely need a lot of RAM to compress successfully.
 
 set -a
 source .env
