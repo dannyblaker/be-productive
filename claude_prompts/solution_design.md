@@ -1,0 +1,1 @@
+Write up a solution design that I can paste into confluence. All the diagrams you include should be in mermaid format. Save it as a markdown file. Note: Can you also generate PNGs of all the mermaid diagrams.
