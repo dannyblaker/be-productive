@@ -6,7 +6,12 @@
       "Bash(python3 *)",
       "Bash(ollama *)",
       "Bash(nvidia-smi *)",
-      "Bash(grep *)" 
+      "Bash(grep *)",
+      "Bash(awk *)", 
+      "Bash(curl *)", 
+      "Bash(cd *)", 
+      "Bash(ls *)", 
+      "Bash(mkdir *)"
     ]
   }
 }
