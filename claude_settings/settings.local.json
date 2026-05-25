@@ -5,7 +5,8 @@
       "Bash(echo *)",
       "Bash(python3 *)",
       "Bash(ollama *)",
-      "Bash(nvidia-smi *)"
+      "Bash(nvidia-smi *)",
+      "Bash(grep *)" 
     ]
   }
 }
