@@ -1,1 +1,1 @@
-can you write a comprehensive, detailed description for a pull request for merging the current branch into ``. Save it as a markdown file so I can review and edit it myself.
+can you write a comprehensive, detailed description for a pull request for merging the current branch into ``. Save it as a markdown file so I can review and edit it myself. Then when I give the go ahead, please create the pull request, and add the following people as reviewers: 
