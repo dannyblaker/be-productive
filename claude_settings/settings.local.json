@@ -20,7 +20,15 @@
       "Bash(nohup *)",
       "Bash(disown *)",
       "Bash(command *)",
-      "Bash(bash *)"
+      "Bash(bash *)",
+      "Bash(npx *)",
+      "Bash(yarn *)",
+      "Bash(npm *)",
+      "Bash(git *)",
+      "Bash(ssh *)",
+      "Bash(scp *)",
+      "Bash(rsync *)",
+      "Bash(wget *)"
     ]
   }
 }
