@@ -7,10 +7,10 @@
       "Bash(ollama *)",
       "Bash(nvidia-smi *)",
       "Bash(grep *)",
-      "Bash(awk *)", 
-      "Bash(curl *)", 
-      "Bash(cd *)", 
-      "Bash(ls *)", 
+      "Bash(awk *)",
+      "Bash(curl *)",
+      "Bash(cd *)",
+      "Bash(ls *)",
       "Bash(mkdir *)",
       "Bash(timeout *)",
       "Read(/tmp/**)",
@@ -28,7 +28,10 @@
       "Bash(ssh *)",
       "Bash(scp *)",
       "Bash(rsync *)",
-      "Bash(wget *)"
+      "Bash(node *)",
+      "Bash(wget *)",
+      "Bash(gh *)",
+      "Bash(identify *)"
     ]
   }
 }
