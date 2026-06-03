@@ -1,0 +1,1 @@
+Write up your report as a markdown file and save it locally. Then use python (via uv) to convert the markdown file into a PDF using the libraries `weasyprint` and `markdown`
