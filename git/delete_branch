@@ -1,0 +1,1 @@
+b=BRANCH_NAME; git branch -D $b && git push origin --delete $b
