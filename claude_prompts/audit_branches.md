@@ -1,0 +1,1 @@
+can you analyse all the branches in the project and give me a list of which are active and which could be deleted. include who created each branch, a short summary of what it's for, its current status, and which have been merged. save the output as a markdown file and a csv file i can share with the team.

@@ -1,0 +1,1 @@
+a developer just asked me the following: `INSERT_HERE`. Can research, understanding then crafting an answer so I can review it? Please provide evidence to support your answer. Please point me to the relevant examples in the codebase or our hosting so i can verify it myself.

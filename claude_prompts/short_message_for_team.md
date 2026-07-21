@@ -1,0 +1,1 @@
+can you give me a short piece of text i can send to my team to explain and summarize this?
