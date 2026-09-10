@@ -1,1 +1,1 @@
-Copilot has reviewed this PR and left suggestions. Can you please review each one carefully, then for each one do the following. a) if valid, then implement as a seperate commit, leave a comment, then resolve. b) if not valid, leave a comment then resolve.
+Copilot has reviewed this PR and left suggestions. Can you please review each one carefully, then for each one do the following. a) if valid, then implement as a seperate commit, leave a comment, then resolve. b) if not valid, leave a comment then resolve. Also if any require my input or decision-making just let me know.
